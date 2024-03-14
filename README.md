@@ -19,3 +19,7 @@ To play the game, simply open the `index.html` file in a web browser. Players ta
 - Two-player functionality: Players can take turns marking spaces.
 - Automatic win detection: The game checks for winning combinations after each move.
 - Draw detection: The game detects when all spaces are filled without a winner.
+
+## Preview
+<img width="330" alt="image" src="https://github.com/Courtneyquinn123/TicTacToe/assets/49349562/e4a5f732-a399-4f6f-9a5b-49180f711d07">
+
